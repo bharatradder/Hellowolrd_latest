@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello, World!</title>
+<title>Welocome to Hello World!</title>
 </head>
 <body>
 <h1>Hello, World!</h1>
-<p>This is a sample "Hello, World!" application for 2024 April Batch.</p>
+<p>This is a sample "Hello World!" application for 2023 microdegree April Batch.</p>
 </body>
 </html>
 
