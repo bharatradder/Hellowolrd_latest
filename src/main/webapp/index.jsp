@@ -1,14 +1,17 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Wellcome to Hello World!</title>
+<title>Welcome to XYZ BANK</title>
+<style>
+  body {
+    background-color: yellow;
+  }
+</style>
 </head>
 <body>
-<h1>Wellcome to Hello World!</h1>
-<p>This is a sample "Hello World!" application for 2023 microdegree April Batch.</p>
+<h1>Welcome to ABC BANK</h1>
+<p>This is a sample Welcome to XYZ BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
-
