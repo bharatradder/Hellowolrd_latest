@@ -6,7 +6,7 @@
 <title>Welcome to BSR BANK</title>
 <style>
   body {
-    background-color: blue;
+    background-color: red;
   }
 </style>
 </head>
